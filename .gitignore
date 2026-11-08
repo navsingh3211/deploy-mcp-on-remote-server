@@ -1,6 +1,6 @@
-.python-version
+# .python-version
 .env
 venv
 .venv
-uv.lock
+# uv.lock
 __pycache__
